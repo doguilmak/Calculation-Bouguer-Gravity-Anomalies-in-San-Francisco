@@ -32,15 +32,15 @@ The data set was given to me by the professor.
 
 ![plot_Area](plotArea.jpg)
 
-						       long_lat_unit       degree
-						      latlimit_north       38.045    
-						      latlimit_south       37.167   
-						      longlimit_west       -121.48    
-						      longlimit_east       -120.70    
-						      topography_min	   1.1603E+03 meter
-						      topography_max       -2.33E+00 meter
-					      free-air_anomalies_min	   -6.001E+01 mGal/m
-					      free-air_anomalies_max	   9.255E+01 mGal/m
+					       long_lat_unit       degree
+					      latlimit_north       38.045    
+					      latlimit_south       37.167   
+					      longlimit_west       -121.48    
+					      longlimit_east       -120.70    
+					      topography_min	   1.1603E+03 meter
+					      topography_max       -2.33E+00 meter
+				      free-air_anomalies_min	   -6.001E+01 mGal/m
+				      free-air_anomalies_max	   9.255E+01 mGal/m
 
 You can examine the area where the study was carried out by clicking on the [Google Earth](https://earth.google.com/web/search/37.6/@37.65458874,-121.25708117,19.04990239a,26212.17532162d,35y,-79.21920196h,65.59324079t,0r/data=CigiJgokCQAAAAAAAAAAEQAAAAAAAAAAGQAAAAAAAAAAIQAAAAAAAAAA) link.
 
