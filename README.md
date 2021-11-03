@@ -37,8 +37,8 @@ The data set was given to me by the professor.
 					      latlimit_south       37.167   
 					      longlimit_west       -121.48    
 					      longlimit_east       -120.70    
-					      topography_min	   1.1603E+03 meter
-					      topography_max       -2.33E+00 meter
+					      topography_max	   1.1603E+03 meter
+					      topography_min       -2.33E+00 meter
 				      free-air_anomalies_min	   -6.001E+01 mGal/m
 				      free-air_anomalies_max	   9.255E+01 mGal/m
 
