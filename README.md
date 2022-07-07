@@ -1,5 +1,5 @@
 
-# 3D Plotting Free-Air Anomalies, Topography, Couger Correction and Bouger Gravity Anomalies in San Francisco 
+# 3D Plotting Free-Air Anomalies, Topography, Bouger Correction and Bouger Gravity Anomalies in San Francisco 
 
 ## Project Statement
 
