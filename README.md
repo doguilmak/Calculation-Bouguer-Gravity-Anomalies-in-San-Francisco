@@ -77,7 +77,7 @@ Bouguer correction for average crust density inland:
 
 $$ρ = 2.67 g/cm^3 (BO = - 0.1119 · H)$$
 
-Bouguer correction for sea water $-1.63 g/cm^3$ relatively to land ($BO=+ 0.0687$ · depth).
+Bouguer correction for sea water $-1.63 g/cm^3$ relatively to land ($BO=+ 0.0687 · depth$).
 
 $$ρ = 1.04 g/cm^3 (-1.63 g/cm^3, BO = + 0.0687 · depth) $$
 
