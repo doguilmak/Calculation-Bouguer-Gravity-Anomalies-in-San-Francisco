@@ -22,7 +22,7 @@ Topography in a narrow sense involves the recording of relief or terrain, the th
 ### What is bouger anomaly?
 
 In geodesy and geophysics, the Bouguer anomaly (named after Pierre Bouguer) is a gravity anomaly, corrected for the height at which it is measured and the attraction of terrain. The height correction alone gives a free-air gravity anomaly.
-Simple reduction: The gravitational acceleration outside a Bouguer plate is perpendicular to the plate and towards t, with magnitude 2πG times the mass per unit area, where is the gravitational constant. It is independent of the distance to the plate (as can be proven most simply with Gauss's law for gravity, but can also be proven directly with Newton's law of gravity). The value of is $6.67 · 10^-11 Nm^2 kg^-2$, so $g$ is $4.191 · 10^-10 Nm^2 / kg^-2$ times the mass per unit area. Using 1 $Gal=0.01 m s^-2 · (1 cm s^-2)$ we get $4.191 × 10^-5$ $mGal$  $m^2 kg^-1$ times the mass per unit area. For mean rock density ($2.67 g$ $cm^-3$) this gives 0.1119 $mGal$ $m^-1$.
+Simple reduction: The gravitational acceleration outside a Bouguer plate is perpendicular to the plate and towards t, with magnitude 2πG times the mass per unit area, where is the gravitational constant. It is independent of the distance to the plate (as can be proven most simply with Gauss's law for gravity, but can also be proven directly with Newton's law of gravity). The value of is $6.67 · 10^-11 Nm^2 kg^-2$, so $g$ is $4.191 · 10^-10 Nm^2 / kg^-2$ times the mass per unit area. Using 1 $Gal=0.01 m s^-2 · (1 cm s^-2)$ we get $4.191 × 10^-5$ $mGal$  $m^2 kg^-1$ times the mass per unit area. For mean rock density ($2.67 g$ $cm^-3$) this gives $0.1119$ $mGal$ $m^-1$.
 
 
 ## Dataset
