@@ -22,7 +22,7 @@ Topography in a narrow sense involves the recording of relief or terrain, the th
 ### What is bouger anomaly?
 
 In geodesy and geophysics, the Bouguer anomaly (named after Pierre Bouguer) is a gravity anomaly, corrected for the height at which it is measured and the attraction of terrain. The height correction alone gives a free-air gravity anomaly.
-Simple reduction: The gravitational acceleration outside a Bouguer plate is perpendicular to the plate and towards t, with magnitude 2πG times the mass per unit area, where is the gravitational constant. It is independent of the distance to the plate (as can be proven most simply with Gauss's law for gravity, but can also be proven directly with Newton's law of gravity). The value of is 6.67×10−11 Nm^2^ kg^-2^, so is 4.191 × 10^-10^ Nm^2^ kg^-2^ times the mass per unit area. Using 1 Gal=0.01 m s^-2^ (1 cm s^-2^) we get 4.191 × 10^-5^ mGal m^2^ kg^-1^ times the mass per unit area. For mean rock density (2.67 g cm^-3^) this gives 0.1119 mGal m^-1^.
+Simple reduction: The gravitational acceleration outside a Bouguer plate is perpendicular to the plate and towards t, with magnitude 2πG times the mass per unit area, where is the gravitational constant. It is independent of the distance to the plate (as can be proven most simply with Gauss's law for gravity, but can also be proven directly with Newton's law of gravity). The value of is $6.67 · 10^-11 Nm^2 kg^-2$, so $g$ is $4.191 · 10^-10 Nm^2 / kg^-2$ times the mass per unit area. Using 1 $Gal=0.01 m s^-2 · (1 cm s^-2)$ we get $4.191 × 10^-5$ $mGal$  $m^2 kg^-1$ times the mass per unit area. For mean rock density ($2.67 g$ $cm^-3$) this gives 0.1119 $mGal$ $m^-1$.
 
 
 ## Dataset
@@ -33,15 +33,15 @@ The data set was given to me by the professor.
 
 ![plot_Area](plotArea.jpg)
 
-		       long_lat_unit       degree
-		      latlimit_north       38.045    
-		      latlimit_south       37.167   
-		      longlimit_west       -121.48    
-		      longlimit_east       -120.70    
-		      topography_min	   1.1603E+03 meter
-		      topography_max       -2.33E+00 meter
-      free-air_anomalies_min	   -6.001E+01 mGal/m
-      free-air_anomalies_max	   9.255E+01 mGal/m
+				       long_lat_unit       degree
+				      latlimit_north       38.045    
+				      latlimit_south       37.167   
+				      longlimit_west       -121.48    
+				      longlimit_east       -120.70    
+				      topography_min	   1.1603E+03 meter
+				      topography_max       -2.33E+00 meter
+			      free-air_anomalies_min	   -6.001E+01 mGal/m
+			      free-air_anomalies_max	   9.255E+01 mGal/m
 
 You can examine the area where the study was carried out by clicking on the [Google Earth](https://earth.google.com/web/search/37.6/@37.65458874,-121.25708117,19.04990239a,26212.17532162d,35y,-79.21920196h,65.59324079t,0r/data=CigiJgokCQAAAAAAAAAAEQAAAAAAAAAAGQAAAAAAAAAAIQAAAAAAAAAA) link.
 
@@ -71,7 +71,7 @@ For plotting these values, we need to add dogu.txt again. We are going to drag n
 
 Using free-air anomalies (faanom) and topography (elevngvd88m) calculate Bouguer correction and Bouguer anomalies according to the rule:
 
-**BO = -0.0419 ρ H, ΔgB = ΔgFA + BO**
+$BO = -0.0419 ρ H, ΔgB = ΔgFA + BO$
 
 Bouguer correction for average crust density inland:
 
