@@ -101,7 +101,7 @@ $$ρ = 1.04 \frac{g}{cm^{3}} \ (-1.63 \frac{g}{cm^{3}}, BO = + 0.0687 \cdot dept
 	  end
 	end
 
-Firstly we need to show topography. After that we need to show bouger gravity anomalies then we need to show bouger anomalies and finally we need to show bouger correction. We can show few plots in one window at the same time with subplot(a, b, c) function. In a, we can specify rows. In b, we can specify columns and in c we can specify the location of the plot where we want to put it.
+Firstly we need to show topography. After that we need to show bouger gravity anomalies then we need to show bouger anomalies and finally we need to show bouger correction. We can show few plots in one window at the same time with `subplot(a, b, c)` function. In a, we can specify rows. In b, we can specify columns and in c we can specify the location of the plot where we want to put it.
 
 	x = -121.48:0.013:-120.70;
 	y = 37.167:0.01463333333:38.045;
