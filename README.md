@@ -69,7 +69,7 @@ For plotting these values, we need to add dogu.txt again. We are going to drag n
 	    hold on
 	end
 
-Using free-air anomalies (faanom) and topography (elevngvd88m) calculate Bouguer correction and Bouguer anomalies according to the rule:
+Using free-air anomalies (`faanom`) and topography (`elevngvd88m`) calculate Bouguer correction and Bouguer anomalies according to the rule:
 
 $$BO = -0.0419 \ ρ H$$
 
