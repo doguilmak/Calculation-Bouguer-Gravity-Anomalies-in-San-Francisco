@@ -71,7 +71,9 @@ For plotting these values, we need to add dogu.txt again. We are going to drag n
 
 Using free-air anomalies (faanom) and topography (elevngvd88m) calculate Bouguer correction and Bouguer anomalies according to the rule:
 
-$BO = -0.0419 ρ H, ΔgB = ΔgFA + BO$
+$$BO = -0.0419 ρ H$$
+
+$$ΔgB = ΔgFA + BO$$
 
 Bouguer correction for average crust density inland:
 
